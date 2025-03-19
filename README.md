@@ -19,9 +19,9 @@ This project implements a **Referral Form** with **Zod** validation to ensure th
 
 Each field in the form is validated using **Zod**, ensuring that the data is in the correct format, contains valid values, and meets required constraints.
 
-## Project Structure
+## Referral Form Structure
 
-The project contains several sections, each with its own form fields and validation rules. The validation is done using **Zod**, ensuring that every input is validated based on the requirements defined for the field type.
+The Form contains several sections, each with its own form fields and validation rules. The validation is done using **Zod**, ensuring that every input is validated based on the requirements defined for the field type.
 
 ### Form Fields and Validation Rules
 
